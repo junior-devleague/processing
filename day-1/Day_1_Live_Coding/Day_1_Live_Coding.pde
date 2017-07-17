@@ -1,7 +1,7 @@
 size(500, 500);
 
 /*
-* Code Segment #2
+* Code Segment #2: Primitive shapes
 * line(), triangle, quad, rect, ellipse
 */
 point(250, 250);
@@ -14,15 +14,13 @@ ellipse(240, 40, 60, 60); // Large circle
 ellipse(400, 75, 32, 32); // Small circle
 
 /* 
-* Code Segment #3
-* Drawing order
+* Code Segment #3: Drawing order
 */ 
 rect(15, 15, 50, 50); // Bottom 
 ellipse(60, 60, 55, 55); // Top 
 
 /*
-* Code Segment #4
-* Gray values
+* Code Segment #4: Gray values
 * background(), fill(), transparency
 */
 fill(0);
@@ -35,8 +33,7 @@ fill(255, 204); // High opacity
 rect(66, 20, 33, 60);
 
 /*
-* Code Segment #5
-* Drawing attributes
+* Code Segment #5: Drawing attributes
 * smooth(), noSmooth(), strokeWeight(), strokeCap()
 */
 smooth();
@@ -58,7 +55,7 @@ line(20, 70, 80, 70); // Bottom line
 // int x = 24.8 - Error! It's not possible to fit a floating-point number into an int
 
 /* 
-* Code Segement #6: Processing variables
+* Code Segment #6: Processing variables
 * width, height
 */
 size(100, 100);

@@ -1,7 +1,7 @@
 # Day 1
 
 ## Schedule
-- [8:30-9:30] Math 1: Arithmetic, Functions 
+- [8:30-9:30] Color 1: Color by Numbers
 - [9:30-10:30] Control 1: Decisions
 - [10:30-11:30] Control 2: Repetition
 - [11:30-12:30] Lunch 
@@ -22,10 +22,15 @@ curveVertex(), bezierVertex()
 
 ## Exercises
 
-### Math 1: Arithmetic, Functions 
+### Math 1: Arithmetic, Functions (Completed Day 1)
 - Use one variable to set the position and size for three ellipses
 - Use multiplication to create a series of lines with increasing space between each.
   
+## Color 1: Color by Numbers
+1. Explore a wide range of color combinations within one composition.
+2. Use HSB color and a for structure to design a gradient between two colors. (To be completed after For Loops)
+3. Redraw your composition from exercise 1 using hexadecimal color values.
+
 ### Control 1: Decisions
 - Create a few relational expressions and print their evaluation to the console with println()
 - Create a composition with a series of lines and ellipses. Use an if structure to select which lines of code to run and which to skip.

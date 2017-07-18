@@ -1,4 +1,4 @@
-# Day 1
+# Day 2
 
 ## Schedule
 - [8:30-9:30] Color 1: Color by Numbers

@@ -13,8 +13,8 @@
 () (parentheses)
 ++ (increment), -- (decrement), += (add assign), -= (subtract assign)
 *= (multiply assign), /= (divide assign), - (negation)
-ceil(), floor(), round(), min(), max(), 
-> (greater than), < (less than)>= (greater than or equal to), <= (less than or equal to) 
+ceil(), floor(), round(), min(), max()
+, > (greater than), < (less than)>= (greater than or equal to), <= (less than or equal to) 
 == (equality), != (inequality) if, else, {} (braces)
 || (logical OR), && (logical AND), ! (logical NOT) 
 beginShape(), endShape(), vertex()
@@ -26,10 +26,10 @@ curveVertex(), bezierVertex()
 - Use one variable to set the position and size for three ellipses
 - Use multiplication to create a series of lines with increasing space between each.
   
-## Color 1: Color by Numbers
-1. Explore a wide range of color combinations within one composition.
-2. Use HSB color and a for structure to design a gradient between two colors. (To be completed after For Loops)
-3. Redraw your composition from exercise 1 using hexadecimal color values.
+### Color 1: Color by Numbers
+- Explore a wide range of color combinations within one composition.
+- Use HSB color and a for structure to design a gradient between two colors. (To be completed after For Loops)
+- Redraw your composition from exercise 1 using hexadecimal color values.
 
 ### Control 1: Decisions
 - Create a few relational expressions and print their evaluation to the console with println()

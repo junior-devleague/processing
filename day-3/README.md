@@ -1,7 +1,7 @@
 # Day 3
 
 ## Schedule
-- [8:30-9:30] Structure 2: Continuous, Structure 3: Functions, Data 2: Text
+- [8:30-9:30] Structure 2: Continuous, Structure 3: Functions
 - [9:30-10:30] Typography 1: Display, Typography 2: Motion
 - [10:30-11:30] Input 1: Mouse I, Input 2: Keyboard
 - [11:30-12:30] Lunch 

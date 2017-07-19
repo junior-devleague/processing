@@ -27,4 +27,5 @@
 
 ### Motion 1: Lines, Curves
 - Move two shapes continuously, but constrain their positions to the display window. 
-- Move three shapes on different curves to create a kinetic composition. 3. Use the transformation functions to animate a shape. 
+- Move three shapes on different curves to create a kinetic composition.
+- Use the transformation functions to animate a shape. 

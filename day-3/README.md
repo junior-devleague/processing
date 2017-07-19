@@ -10,6 +10,11 @@
 
 ## Exercises
 
+### Typography
+- Explore different typefaces in Processing. Draw your favorite word to the display window in your favorite typeface.
+- Draw a paragraph of text to the display window. Carefully select the composition.
+- Use two different typefaces to display the dialog between two characters.
+
 ### Input 1: Mouse I
 - Control the position of a shape with the mouse. Strive to create a more interesting relation than directly mimicking the position of the cursor.
 - Invent three unique shapes that behave differently in relation to the mouse. Each shape’s behavior should change when the mouse is pressed. Relate the form of each shape to its behavior.

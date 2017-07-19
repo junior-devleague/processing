@@ -11,7 +11,6 @@
 
 # Day 2
 
-## Schedule
 - [8:30-9:30] Color 1: Color by Numbers
 - [9:30-10:30] Control 1: Decisions
 - [10:30-11:30] Control 2: Repetition
@@ -21,7 +20,6 @@
 
 # Day 3
 
-## Schedule
 - [8:30-9:30] Structure 2: Continuous, Structure 3: Functions, Data 2: Text
 - [9:30-10:30] Typography 1: Display, Typography 2: Motion
 - [10:30-11:30] Input 1: Mouse I, Input 2: Keyboard
@@ -31,7 +29,6 @@
 
 # Day 4
 
-## Schedule
 - [8:30-9:30] Data 4: Arrays, Image 2: Animation
 - [9:30-10:30] Input 3: Events, Input 4: Mouse II, Input 5: Time, Date
 - [10:30-11:30] Transform 1: Translate, Matrices, Transform 2: Rotate, Scale

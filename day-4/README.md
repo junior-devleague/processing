@@ -24,3 +24,10 @@ the mouse in a different way.
 
 ### Motion 2: Machine, Organism
 - Use Code Segment #16 as a base for creating a more advanced organism.
+
+### Drawing 1: Static Forms
+- Make a custom drawing tool that changes its form when a mouse button is pressed.
+
+### Drawing 2: Kinetic Forms
+- Design and program visual elements that change after they have been drawn
+to the display window.

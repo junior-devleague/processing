@@ -317,12 +317,104 @@
 //  line(0, -300, 0, 300);
 //}
 
-
+/*
+* Code Segment #17: Drawing - Static Forms
+*/
+//void setup() { 
+//  size(800, 800);
+//}
+//void draw() {
+//if (mousePressed == true) {
+//    line(mouseX, mouseY, pmouseX, pmouseY);
+//  }
+//}
 
 /*
-* Code Segment #1: Drawing - Static Forms
+* Code Segment #18: Static Forms - For Loop
 */
+//void setup() { 
+//  size(800, 800);
+//}
+//void draw() {
+//  for (int i = -14; i <= 100; i += 2) {
+//    point(mouseX+i, mouseY);
+//  }
+//}
 
 /*
-* Code Segment #1: Drawing 2 - Kinetic Forms
+* Code Segment #19: Static Forms - For Loop
 */
+
+//void setup() { 
+//  size(800, 800); 
+//  noStroke(); 
+//  fill(255, 40); 
+//  background(0);
+//}
+//void draw() {
+//  if (mousePressed == true) {
+//    fill(0, 26);
+//  } else {
+//    fill(255, 26);
+//  }
+//  for (int i = 0; i < 100; i++) {
+//    ellipse(mouseX + i*i, mouseY, i, i);
+//  } 
+//}
+
+/*
+* Code Segment #20: Static Forms - Draw with an image sliver
+*/
+//PImage lineImage;
+//void setup() {
+//  size(800, 800);
+//  lineImage = loadImage("ani-000.gif");
+//}
+//void draw() {
+//  image(lineImage, mouseX-lineImage.width/2, mouseY);
+//}
+
+/*
+* Code Segment #21: Kinetic Forms
+* The change in the mouse position between the last frame and 
+* current frame sets the size of the ellipse drawn to the screen. 
+* If the ellipse does not move, the size reverts to a single pixel.
+*/
+//void setup() { 
+//  size(800, 800); 
+//  smooth();
+//}
+//void draw() {
+//  float s = dist(mouseX, mouseY, pmouseX, pmouseY) + 50; 
+//  noStroke();
+//  fill(0, 102);
+//  ellipse(mouseX, mouseY, s, s);
+//  stroke(255);
+//  point(mouseX, mouseY);
+//}
+
+/*
+* Code Segment #21: Kinetic Forms - Create Pretty Flower
+*/
+//int angle = 0;
+//void setup() { 
+//  size(800, 800); 
+//  smooth(); 
+//  noStroke(); 
+//  fill(0, 102);
+//}
+//void draw() {
+//// Draw only when mouse is pressed 
+//  if (mousePressed == true) {
+//      angle += 10;
+//      float val = cos(radians(angle)) * 100.0;
+//    for (int a = 0; a < 360; a += 75) {
+//      float xoff = cos(radians(a)) * val;
+//      float yoff = sin(radians(a)) * val;
+//      fill(0);
+//      ellipse(mouseX + xoff, mouseY + yoff, val/2, val/2);
+//    }
+//    fill(255);
+//    ellipse(mouseX, mouseY, 50, 50);
+//  } 
+//}

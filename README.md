@@ -35,3 +35,10 @@
 - [11:30-12:30] Lunch 
 - [12:30-1:30] Motion 2: Machine, Organism
 - [1:30-2:30] Drawing: Static Forms, Drawing 2: Kinetic Forms
+
+# Day 5
+
+- [8:30-11:30] Final Project 
+- [11:30-12:30] Lunch 
+- [12:30-1:30] Presentations
+- [1:30-2:30] Round Table
